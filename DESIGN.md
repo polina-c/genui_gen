@@ -17,8 +17,8 @@ everything is derived, the catalog can never drift from the widget.
 Mirrors the `json_annotation` / `json_serializable` convention. Users add
 `genui_gen` to `dependencies` and `genui_gen_builder` to `dev_dependencies`.
 
-Target: Dart `>=3.10.0 <4.0.0`, Flutter `>=3.38.0`, `a2ui_core ^0.5.0`,
-`a2ui_flutter ^0.1.0`,
+Target: Dart `>=3.10.0 <4.0.0`, Flutter `>=3.38.0`, `a2ui_core ^0.6.0`,
+`a2ui_flutter ^0.2.0`,
 `source_gen ^4.0.0`, `analyzer >=8.0.0 <11.0.0`, `build ^4.0.0`.
 The generator MUST use the current analyzer element model (`ClassElement`,
 `ConstructorElement`, `FormalParameterElement`, `EnumElement`, etc. — the

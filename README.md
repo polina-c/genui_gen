@@ -44,7 +44,7 @@ widget.
 
 ```yaml
 dependencies:
-  a2ui_flutter: ^0.1.0
+  a2ui_flutter: ^0.2.0
   genui_gen: ^0.14.0
 
 dev_dependencies:
@@ -1300,7 +1300,7 @@ Two ways around it in the meantime:
 
 ## Compatibility
 
-- `a2ui_core ^0.5.0` and `a2ui_flutter ^0.1.0`
+- `a2ui_core ^0.6.0` and `a2ui_flutter ^0.2.0`
 - Flutter `>=3.38.0`
 - Dart `>=3.10.0 <4.0.0`
 - `build_runner ^2.15.0`, `source_gen ^4.1.0`, `analyzer >=10.0.0 <15.0.0`

@@ -12,7 +12,7 @@ environment:
 resolution: workspace
 
 dependencies:
-  a2ui_flutter: ">=0.1.0 <0.2.0"
+  a2ui_flutter: ">=0.2.0 <0.3.0"
   flutter:
     sdk: flutter
   genui_gen: ^0.14.0

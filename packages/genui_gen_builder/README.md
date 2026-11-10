@@ -38,7 +38,7 @@ a new release of this package unless it removes API the generator uses.
 
 ```yaml
 dependencies:
-  a2ui_flutter: ^0.1.0
+  a2ui_flutter: ^0.2.0
   genui_gen: ^0.14.0
 
 dev_dependencies:

@@ -65,7 +65,7 @@ fails. There is no second source of truth to keep in sync.
 
 ```yaml
 dependencies:
-  a2ui_flutter: ^0.1.0
+  a2ui_flutter: ^0.2.0
   genui_gen: ^0.14.0
 
 dev_dependencies:
@@ -596,7 +596,7 @@ Generated code uses these; you normally do not call them yourself.
 
 ## Compatibility
 
-`a2ui_core ^0.5.0` · `a2ui_flutter ^0.1.0` · Flutter `>=3.38.0` · Dart
+`a2ui_core ^0.6.0` · `a2ui_flutter ^0.2.0` · Flutter `>=3.38.0` · Dart
 `>=3.10.0 <4.0.0`
 
 `a2ui_core` and `a2ui_flutter` live in
